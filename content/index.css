@@ -131,4 +131,8 @@ a {
         font-weight: 500;
         font-size: 18pt;
     }
+
+    .no-underline {
+        text-decoration: none;
+    }
 }
