@@ -135,4 +135,10 @@ a {
     .no-underline {
         text-decoration: none;
     }
+
+    .pull-quote {
+        font-weight: 700;
+        background-color: #ffdc0d;
+        font-size: 36pt;
+    }
 }
